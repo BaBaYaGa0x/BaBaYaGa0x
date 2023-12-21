@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-**BaBaYaGa0x/BaBaYaGa0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**x0Mask/x0Mask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,9 +28,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Front-end developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, JavaScript or anything related to web development. 
+- 🚀 Passionate Junior Front-end Engineer | HTML, CSS, JavaScript, React enthusiast 
+- 👨‍💻 Continuously improving for seamless user experiences 
+- 🌟 Enthusiastic about building immersive web solutions that captivate users.
+- 🌟 Leveraging Python, Git/GitHub, and a knack for problem-solving to architect robust, user-centric applications. 
 
 
 ### Connect with Me :
@@ -45,6 +46,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![React]((https://img.shields.io/badge/-React-05122A?style=flat&logo=React))&nbsp;
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
@@ -58,9 +60,9 @@ Here are some ideas to get you started:
 
 
 <!--
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x0Mask&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=x0Mask&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=x0Mask&style=for-the-badge">
 </a>
 -->
